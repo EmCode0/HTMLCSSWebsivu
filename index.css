@@ -88,7 +88,7 @@ ul li {
 .hero {
  background-image:
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("DSC_7498 1.jpg");
+    url("heropic.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -149,7 +149,7 @@ p {  font-family: "Open Sans", sans-serif;
 .cta {
   background-image:
   linear-gradient(rgba(18, 18, 18, 0.85), rgba(18, 18, 18, 0.85)),
-    url("pexels-barbara-olsen-7869745 1.jpg");
+    url("footerpicindex.jpg");
   background-size: cover;
   background-position: center;
   padding: 60px 0;
